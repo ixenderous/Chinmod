@@ -6,4 +6,6 @@
 Chinmod
 </h1>
 
+Tweaks for Chinman. Patches apply when joining a game.
+
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)

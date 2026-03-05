@@ -23,8 +23,8 @@ public class Chinmod : BloonsTD6Mod
     {
         base.OnNewGameModel(result);
 
-        if (Settings.PatchCrush) patchUltraboost(result);
-        if (Settings.PatchUltraboost) patchRedeploy(result);
+        if (Settings.PatchUltraboost) patchUltraboost(result);
+        if (Settings.PatchRedeploy) patchRedeploy(result);
         if (Settings.PatchCrush) patchCrush(result);
     }
 
